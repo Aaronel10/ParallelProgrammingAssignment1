@@ -10,5 +10,5 @@ property of my variables.
 
 
 Instructions:
-compile Primes.javac with javac command
+compile Primes.java with javac command
 run it with the java command
